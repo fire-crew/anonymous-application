@@ -11,6 +11,18 @@
 2022.01 ~ 2022. 
 
 ### Stacks
+| category | stack |
+|---|:---:|
+| `Languate` | TypeScript |
+| `Framework` | Vue3.x |
+| `Status Management`| Vuex | 
+| `Module Bundler` | WebPack |
+| `Plugin` | ESLint Prettier |
+| `Test` | JEST |  
+| `CI/CD` | GithubAction |
+
+
+### Maintainer
 
 | 직군 | 이름 |
 |---|:---:|
