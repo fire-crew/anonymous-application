@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="//img.imbc.com/commons/2018/image/main/mbc-logo.png" width="320" alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="blank"><img src="https://img.imbc.com/commons/2018/image/comm2018noti/meta_mbc.png" width="320" alt="Nest Logo" /></a>
 </p>
 
   <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
