@@ -2,7 +2,7 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://img.imbc.com/commons/2018/image/comm2018noti/meta_mbc.png" width="320" alt="Nest Logo" /></a>
 </p>
 
-  <p align="center">Anonymous <a href="" target="_blank">Side Project</a> </p>
+  <p align="center">Anonymous <a href="" target="_blank">Side Project</a> Client side </p>
     <p align="center">
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
