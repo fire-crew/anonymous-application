@@ -1,0 +1,16 @@
+name: Contiribution Thanks
+
+on: [issues]
+
+jobs:
+  issueWelcomeBOT:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v4
+        with:
+          script: |
+            github.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '👋 Thanks for Contribution!'
+            })
