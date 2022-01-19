@@ -1,6 +1,5 @@
 <template>
 	<div>
-		<header></header>
 		<div id="nav">
 			<router-link to="/Post">Post</router-link>
 			<router-link to="/SignIn">회원가입</router-link>
