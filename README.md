@@ -14,10 +14,10 @@
 | category | stack |
 |---|:---:|
 | `Languate` | TypeScript |
-| `Framework` | Vue3.x |
+| `Framework` | Vue3 |
 | `Status Management`| Vuex | 
 | `Module Bundler` | WebPack |
-| `Plugin` | ESLint Prettier |
+| `Plugin` | ESLint, Prettier, Vuetify, Chart.js |
 | `Test` | JEST |  
 | `CI/CD` | GithubAction |
 
